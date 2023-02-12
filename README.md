@@ -1,14 +1,22 @@
 
 
 ![](Img/title.png)
-### 个人简介 👋
+## 个人简介 👋
 
 - :octocat: chenpuhao
 - :school_satchel: student
 - :orange_book: 专注于 Java
 - :hammer: 正在编写 DesktopAide pro
 - :mailbox_closed: chenpuhao1229@163.com
- ### 主推仓库
+ ## 主推仓库&软件
 [![主推仓库](https://github-readme-stats.vercel.app/api/pin/?username=chenpuhao&repo=DesktopAide&show_owner=true)](https://github.com/chenpuhao/DesktopAide)
+[![trophy](https://github-profilr-trophy.vercel.app/?username=chenpuhao&theme=onedark)](https://github.com/chenpuhao/DesktopAide)
+### 简介
+DesktopAide一款基于Java的整理软件，下载地址:desktopaide.chenpuhao.me
 
+## 其他
+![](https://img.shields.io/badge/MainLanguage-Java-brightgreen)
+![](https://img.shields.io/badge/OS-Windows11-brightgreen)
+![](https://img.shields.io/badge/Learning-C%23-brightgreen)
+![](https://komarev.com/ghpvc/?username=chenpuhao&color=green)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chenpuhao&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  alt=""/>
