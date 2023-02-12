@@ -1,6 +1,6 @@
 
 
-![](Img\title.png)
+![](Img/title.png)
 ### 个人简介 👋
 
 - :octocat: chenpuhao
