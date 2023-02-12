@@ -10,7 +10,7 @@
 - :mailbox_closed: chenpuhao1229@163.com
  ## 主推仓库&软件
 [![主推仓库](https://github-readme-stats.vercel.app/api/pin/?username=chenpuhao&repo=DesktopAide&show_owner=true)](https://github.com/chenpuhao/DesktopAide)
-[![trophy](https://github-profilr-trophy.vercel.app/?username=chenpuhao&theme=onedark)](https://github.com/chenpuhao/DesktopAide)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chenpuhao](https://github.com/chenpuhao/DesktopAide)
 ### 简介
 DesktopAide一款基于Java的整理软件，下载地址:desktopaide.chenpuhao.me
 
