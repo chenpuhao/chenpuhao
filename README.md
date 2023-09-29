@@ -6,14 +6,14 @@
 - :octocat: chenpuhao
 - :school_satchel: student
 - :orange_book: 专注于 Java
-- :hammer: 正在编写 DesktopAide pro
-- :mailbox_closed: chenpuhao1229@163.com
+- :hammer: 正在学习Java web
+- :mailbox_closed: hauchet@outlook.com
  ## 主推仓库&软件
 [![主推仓库](https://github-readme-stats.vercel.app/api/pin/?username=chenpuhao&repo=DesktopAide&show_owner=true)](https://github.com/chenpuhao/DesktopAide)
 [![trophy](https://github-profile-trophy.vercel.app/?username=chenpuhao)](https://github.com/chenpuhao/DesktopAide)
 
 ### 简介
-DesktopAide一款基于Java的整理软件，下载地址:desktopaide.chenpuhao.me
+DesktopAide一款基于Java的整理软件
 
 ## 其他
 ![](https://img.shields.io/badge/MainLanguage-Java-brightgreen)
