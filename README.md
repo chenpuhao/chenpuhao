@@ -9,11 +9,11 @@
 - :hammer: 正在学习Java web
 - :mailbox_closed: hauchet@outlook.com
  ## 主推仓库&软件
-[![主推仓库](https://github-readme-stats.vercel.app/api/pin/?username=chenpuhao&repo=DesktopAide&show_owner=true)](https://github.com/chenpuhao/DesktopAide)
-[![trophy](https://github-profile-trophy.vercel.app/?username=chenpuhao)](https://github.com/chenpuhao/DesktopAide)
+[![主推仓库](https://github-readme-stats.vercel.app/api/pin/?username=chenpuhao&repo=Desktop-Toolkit&show_owner=true)](https://github.com/chenpuhao/Desktop-Toolkit)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chenpuhao)](https://github.com/chenpuhao/Desktop-Toolkit)
 
 ### 简介
-DesktopAide一款基于Java的整理软件
+DesktopAide的下一版本
 
 ## 其他
 ![](https://img.shields.io/badge/MainLanguage-Java-brightgreen)
