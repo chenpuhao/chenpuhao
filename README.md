@@ -6,8 +6,8 @@
 - :octocat: chenpuhao
 - :school_satchel: student
 - :orange_book: 专注于 Java
-- :hammer: 正在学习Java web
-- :mailbox_closed: hauchet@outlook.com
+- :hammer: 正在学习Java
+- :mailbox_closed: wangling@office.hauchet.cn
  ## 主推仓库&软件
 [![主推仓库](https://github-readme-stats.vercel.app/api/pin/?username=chenpuhao&repo=Desktop-Toolkit&show_owner=true)](https://github.com/chenpuhao/Desktop-Toolkit)
 [![trophy](https://github-profile-trophy.vercel.app/?username=chenpuhao)](https://github.com/chenpuhao/Desktop-Toolkit)
