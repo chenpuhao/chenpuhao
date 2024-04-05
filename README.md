@@ -9,7 +9,7 @@
 - :hammer: 正在学习Java
 - :mailbox_closed: wangling@office.hauchet.cn
  ## 主推仓库&软件
-[![主推仓库](https://github-readme-stats.vercel.app/api/pin/?username=chenpuhao&repo=Desktop-Toolkit&show_owner=true)](https://github.com/chenpuhao/Desktop-Toolkit)
+[![主推仓库](https://github-readme-stats.vercel.app/api/pin/?username=chenpuhao&repo=DesktopAide&show_owner=true)](https://github.com/chenpuhao/DesktopAide)
 [![trophy](https://github-profile-trophy.vercel.app/?username=chenpuhao)](https://github.com/chenpuhao/Desktop-Toolkit)
 
 ### 简介
